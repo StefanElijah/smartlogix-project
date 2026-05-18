@@ -12,4 +12,5 @@ public class StockCompensacionEvent {
     private String numeroOrden;
     private Long productoId;
     private Integer cantidad;
+    private String reservaId;
 }
