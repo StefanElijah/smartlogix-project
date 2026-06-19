@@ -11,5 +11,5 @@ import lombok.Setter;
 @AllArgsConstructor
 public class VentaPorCategoriaResponseDTO {
     private String categoria;
-    private Long totalVentas;
+    private Long cantidad;
 }
